@@ -16,4 +16,4 @@ QA queries
 QA queries
 
 ## + ADVANCED
-IBM Certification exercises
+IBM Certification Advanced Exercises
