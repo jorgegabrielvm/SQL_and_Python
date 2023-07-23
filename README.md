@@ -6,4 +6,14 @@ Data Analysis Projects using SQL
 
 Download the full documents to play with in the Jupyter Lab
 
-## ★ Road Accident Data
+## 1. ★ Road Accident Data
+QA queries plus report
+
+## 2. HR DATA
+QA queries
+
+## 3. BikeStores
+QA queries
+
+## + ADVANCED
+IBM Certification exercises
