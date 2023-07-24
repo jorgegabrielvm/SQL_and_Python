@@ -7,7 +7,7 @@ Data Analysis Projects using SQL
 Download the full documents to play with in the Jupyter Lab
 
 ## 1. ★ Road Accident Data
-QA queries plus report in Jupyter notebook
+QA queries, plus report in Jupyter notebook
 
 ## 2. HR DATA
 QA queries for Power BI Dashboard
