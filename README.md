@@ -15,5 +15,5 @@ QA queries for Power BI Dashboard
 ## 3. [BikeStores](https://github.com/jorgegabrielvm/SQL/tree/main/BikeStores)
 QA queries for Tableau Dashbboard
 
-## [+ ADVANCED](https://github.com/jorgegabrielvm/SQL/tree/main/%2BADVANCED)
+## 4. [+ ADVANCED](https://github.com/jorgegabrielvm/SQL/tree/main/%2BADVANCED)
 IBM Certification Advanced Exercises
