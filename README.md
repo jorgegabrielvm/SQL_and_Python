@@ -13,10 +13,10 @@ QA queries, plus report in Jupyter notebook
 Table with queries creation for [Power BI Dashboard](https://drive.google.com/drive/folders/1k9gmmBFvxsHRg9DGFdS7ODvuHdyLwzhT?usp=sharing)
 
 ## 2. [HR DATA](https://github.com/jorgegabrielvm/SQL/tree/main/HR%20DATA)
-QA queries for Power BI Dashboard
+QA queries for [Power BI Dashboard](https://drive.google.com/drive/folders/1426kuUayuCFoOIVal7EJboVwK3iDrmGD?usp=sharing)
 
 ## 3. [BikeStores](https://github.com/jorgegabrielvm/SQL/tree/main/BikeStores)
-QA queries for Tableau Dashbboard
+QA queries for [Tableau Dashbboard](https://public.tableau.com/app/profile/gabriel.villasmil/viz/BikeStores_Gabriel/Dashboard1)
 
 ## 4. [+ ADVANCED](https://github.com/jorgegabrielvm/SQL/tree/main/%2BADVANCED)
 IBM Certification Advanced Exercises
