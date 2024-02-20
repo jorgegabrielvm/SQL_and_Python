@@ -18,5 +18,8 @@ QA queries for [Power BI Dashboard](https://drive.google.com/drive/folders/1426k
 ## [BikeStores](https://github.com/jorgegabrielvm/SQL/tree/main/BikeStores)
 QA queries for [Tableau Dashbboard](https://public.tableau.com/app/profile/gabriel.villasmil/viz/BikeStores_Gabriel/Dashboard1)
 
+## [Ireflix](https://github.com/jorgegabrielvm/SQL/tree/main/Ireflix)
+Class project: Ireflix; Irish Netflix Database project
+
 ## [+ ADVANCED](https://github.com/jorgegabrielvm/SQL/tree/main/%2BADVANCED)
 IBM Certification Advanced Exercises
