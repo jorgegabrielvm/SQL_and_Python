@@ -6,7 +6,10 @@ Data Analysis Projects using SQL
 
 Download the full documents to play with in the Jupyter Lab
 
-## ★ [Road Accident Data](https://github.com/jorgegabrielvm/SQL/tree/main/Road%20Accident%20Data)
+## [Church Analytics](https://github.com/jorgegabrielvm/SQL/tree/main/Church_DB)
+Performed comprehensive analysis of church donation data using SQL and Python, including data cleaning, SQL querying, and visualization to uncover donor behavior and contribution trends.
+
+## [Road Accident Data](https://github.com/jorgegabrielvm/SQL/tree/main/Road%20Accident%20Data)
 QA queries, plus report in Jupyter notebook for [Excel Dashboard](https://drive.google.com/drive/folders/1wytKJj4COHSZxhVm2_Ryebo2kDeC1rDk?usp=drive_link)
 
 ## [Work Absenteeism](https://github.com/jorgegabrielvm/SQL/tree/main/Work%20Absenteeism)
